@@ -73,5 +73,5 @@ From the EDA of the given loan data set we got to known that multiple factors de
 
 
 ## Contact
-Created by [@sreeprem] [@arunadevi] - feel free to contact me!
+Created by [@sreeprem] [@arunadevi] - feel free to contact us!
 
